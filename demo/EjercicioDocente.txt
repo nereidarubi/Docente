@@ -1,0 +1,7 @@
+Cree la clase Docente dentro de un paquete demo que tenga como atributos privados:nombre, apellido, tipo(ciencias y letras), horas:
+-(3 Ptos) Un constructor público que inicialice a todos los atributos
+-(4 Ptos) Métodos de acceso: set/get para los atributos
+-(2 Ptos) Un método que retorne el nombre completo (nombrey apellido)
+-(2 Ptos) Un método que retorne el suelto Bruto ("ciencia=S/3, "letras"=S/5 por horas)
+-(2 Ptos) Un método que retorne el descuento del 0.10
+-(2 Ptos) Un método que retorne el sueldo neto
